@@ -1,8 +1,13 @@
-![Horus Logo](Horus Game)
+![Horus Logo](./img/horusresponsiveness.png)
+
+[Click here](https://bruno-diego.github.io/horus-game/) to go to the live website (CTRL + Click).
+
 
 ## Introduction
 
-Welcome to Horus, a fun and addictive game inspired by the classic Flappy Bird! Horus is a JavaScript-based game that challenges your hand-eye coordination and reflexes.
+Welcome to **Horus**, 
+
+a fun and addictive game inspired by the classic Flappy Bird! Horus is a JavaScript-based game that challenges your hand-eye coordination and reflexes.
 
 In this game, you take on the role of a bird named Horus, who must navigate through a series of obstacles to reach the end of each level. With each obstacle you pass, you score points and move closer to victory. However, beware of the obstacles that lie ahead, as even the slightest touch can send you crashing to the ground.
 
