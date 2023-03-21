@@ -16,9 +16,9 @@ body {
 [wm-flappy] {
     position: relative;
     border: solid 5px dodgerblue;
-    width: 1200px;
-    height: 700px;
-    margin: 15px;
+    width: 100%;
+    min-height: 50vh;
+    margin: auto;
     background-color: deepskyblue;
     overflow: hidden; 
 }
