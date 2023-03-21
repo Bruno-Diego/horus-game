@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Pixel';
+    src: url('../fonts/Pixel.ttf');
+}
+
 html {
     height: 100%;
 }
@@ -67,4 +72,5 @@ body {
     font-family: Pixel;
     font-size: 70px;
     z-index: 100;
+    line-height: normal !important;
 }
